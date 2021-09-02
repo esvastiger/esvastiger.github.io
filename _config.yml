@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Esvastiger"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #name             : "Esvastiger"
+  #avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Spain"
   email            :
