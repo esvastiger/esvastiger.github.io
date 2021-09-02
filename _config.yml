@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/test/assets/images/bio-photo.jpg"
+  avatar           : "/assets/resource/icon.png"
   bio              : "I am an **amazing** person."
   location         : "Spain"
   email            :
