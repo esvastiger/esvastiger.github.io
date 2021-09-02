@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : " "
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Spain"
